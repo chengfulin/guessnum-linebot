@@ -6,4 +6,4 @@ A LINE bot for a game "Guess Number"
 
 ## Try it
 
-![QR code of Guess Number LINE Bot](https://qr-official.line.me/M/186a7lAsuY.png)
+![QR code of Guess Number LINE Bot](qr-code.png)
